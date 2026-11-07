@@ -18,7 +18,6 @@ public sealed class Renderer
     private static readonly Mod[] Mods =
     [
         new("Navi Re-colours", "A fresh coat of.. Paint..?", "thumbnailfornavi.png"),
-        new("Hero of Time Retexture", "A high-resolution retexture of Link's tunic, cap and gear that stays true to the original look.", "HOTR.jpg"),
         new("Retro Sound Pack", "Swaps effects and music for classic chiptune-style sounds.", null),
     ];
 
